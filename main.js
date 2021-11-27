@@ -28,7 +28,7 @@ function gotPoses(results)
 }
 function draw()
 {
- image(video,0 , 0 , 300 ,300);
+ image(video,0 , 0 , 500 ,499.55);
 }
 function take_snapshot()
 {
